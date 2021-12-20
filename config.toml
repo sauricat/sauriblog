@@ -2,7 +2,7 @@ publishDir = "docs"
 baseURL = "https://sauricat.github.io/"
 DefaultContentLanguage = "en" # Theme's display language, supports: en, fr, zh, zh-hant
 languageCode = "en-us"
-title = "Shu Lin 的文章储存"
+title = "Shu Lin 的文章储存库"
 copyright = "Shu Lin 2021"
 theme = "diary"
 # googleAnalytics = "UA-123-45"
@@ -26,8 +26,8 @@ enableGitalk = true
 # Twitter Card and Open Graph settings
 enableOpenGraph = true
 enableTwitterCards = true
-title = "My Blog" # will set 'og:site_name'
-description = "My HomePage Description"  # will set 'og:description'
+title = "Shu Lin 的文章储存库" # will set 'og:site_name'
+description = "这里精选收录了 Shu Lin 在 Twitter 以及 Telegram 频道中发布的部分文章，希望能给大家带来帮助。"  # will set 'og:description'
 
 [params.gitalk]
   owner = "user"
@@ -44,14 +44,14 @@ term="[ENTER TERM HERE]"
 label="your label"
 theme="github-light"
 
-#[[menu.main]]
-#url = "/categories"
-#name = "Categories"
-#weight = 2
-#[[menu.main]]
-#url = "/tags"
-#name = "Tags"
-#weight = 3
+[[menu.main]]
+url = "/categories"
+name = "按分类检索"
+weight = 2
+[[menu.main]]
+url = "/tags"
+name = "按主题检索"
+weight = 3
 [[menu.main]]
 url = "/posts"
 name = "所有文章"
