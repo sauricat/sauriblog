@@ -2,4 +2,7 @@
 Shu's Blog
 
 # Usage
-`hugo`
+First install [Hugo](https://github.com/gohugoio/hugo).
+```
+hugo
+```
