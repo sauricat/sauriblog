@@ -1,8 +1,8 @@
 ---
 date: 2021-10-18T01:04:00-04:00
 description: 如何和受精神问题困扰的伙伴相处？
-tags: [支持者]
-title: "关于支持和陪伴的小事"
+tags: [支持者, 故事]
+title: "关于支持和陪伴的小事 2：觉察朋友的情绪问题"
 categories: 精神疾患
 comment: false
 ---
