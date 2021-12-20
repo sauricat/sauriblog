@@ -2,7 +2,7 @@
 date: 2021-11-16T21:31:00-04:00
 description: 吃药这件事情对需要的人来说就如同喝水吃饭一样自然。
 tags: [HRT]
-title: "朋友，你或许不用太过焦虑 HRT 的副作用（本文主要针对跨性别女性的 HRT）"
+title: "或许你不用太过焦虑 HRT 的副作用？（本文主要针对跨性别女性的 HRT）"
 categories: 跨性别相关
 comment: false
 ---
