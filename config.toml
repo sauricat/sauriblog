@@ -1,5 +1,5 @@
 publishDir = "docs"
-baseURL = "http://example.org/"
+baseURL = "https://sauricat.github.io/"
 DefaultContentLanguage = "en" # Theme's display language, supports: en, fr, zh, zh-hant
 languageCode = "en-us"
 title = "Shu Lin 的文章储存"
