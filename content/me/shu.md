@@ -21,4 +21,4 @@ Telegram: [@saurikatze](https://t.me/saurikatze)
 
 # One Among Us（那些秋叶）
 
-One Among Us ([one-among.us](one-among.us)) 是由 Shu 和 Hykilpikonna 共同管理的跨性别者和友跨人士（trans allies）纪念网站。目前条目数量较少，希望有更多伙伴一起来参与编写工作，为了那些不应该忘却的记忆。
+One Among Us ([one-among.us](https://one-among.us)) 是由 Shu 和 Hykilpikonna 共同管理的跨性别者和友跨人士（trans allies）纪念网站。目前条目数量较少，希望有更多伙伴一起来参与编写工作，为了那些不应该忘却的记忆。
