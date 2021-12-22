@@ -27,7 +27,7 @@ One Among Us ([one-among.us](https://one-among.us)) 是由 Shu 和 Hykilpikonna 
 
 ColorsWorld 是一个优秀的性别多元工作小组。你可以通过以下方式关注活动或与 ColorsWorld 取得联系：
 
-1. 通过电子邮件[订阅 CW Newsletter](https://www.getrevue.co/profile/colorsworld)（请手动将 colorsworld@colorsworld@getrevue.co 加入你的邮箱白名单，以免被错误当成垃圾邮件）
+1. 通过电子邮件[订阅 CW Newsletter](https://www.getrevue.co/profile/colorsworld)（请手动将 colorsworld@getrevue.co 加入你的邮箱白名单，以免被错误当成垃圾邮件）
 
 2. 搜索微信公众号 **CW 未命名色彩**并关注
 
