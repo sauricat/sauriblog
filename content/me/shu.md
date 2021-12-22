@@ -22,3 +22,16 @@ Telegram: [@saurikatze](https://t.me/saurikatze)
 # One Among Us（那些秋叶）
 
 One Among Us ([one-among.us](https://one-among.us)) 是由 Shu 和 Hykilpikonna 共同管理的跨性别者和友跨人士（trans allies）纪念网站。目前条目数量较少，希望有更多伙伴一起来参与编写工作，为了那些不应该忘却的记忆。
+
+# ColorsWorld
+
+ColorsWorld 是一个优秀的性别多元工作小组。你可以通过以下方式关注活动或与 ColorsWorld 取得联系：
+
+1. 通过电子邮件[订阅 CW Newsletter](https://www.getrevue.co/profile/colorsworld)（请手动将 colorsworld@colorsworld@getrevue.co 加入你的邮箱白名单，以免被错误当成垃圾邮件）
+
+2. 搜索微信公众号 **CW 未命名色彩**并关注
+
+3. 查看 [CW 文章备份站](https://colorsworld.top/)
+
+4. 直接邮件联系 colorsworld@protonmail.com
+
