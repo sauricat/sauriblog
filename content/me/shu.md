@@ -23,6 +23,14 @@ Telegram: [@saurikatze](https://t.me/saurikatze)
 
 One Among Us ([one-among.us](https://one-among.us)) 是由 Shu 和 Hykilpikonna 共同管理的跨性别者和友跨人士（trans allies）纪念网站。目前条目数量较少，希望有更多伙伴一起来参与编写工作，为了那些不应该忘却的记忆。
 
+# Trans in Academia
+
+Trans in Academia 的目标是打造一个让有志于或者正在从事学术的跨性别朋友和友跨人士们感到安全和友善的互助讨论环境。你可以通过以下方式加入：
+
+1. 加入我们的 [Discord 服务器](https://discord.gg/7BXSCdP7)
+
+2. 联系我获得关联 Telegram 群组的邀请链接
+
 # ColorsWorld
 
 ColorsWorld 是一个优秀的性别多元工作小组。你可以通过以下方式关注活动或与 ColorsWorld 取得联系：
@@ -34,4 +42,3 @@ ColorsWorld 是一个优秀的性别多元工作小组。你可以通过以下�
 3. 查看 [CW 文章备份站](https://colorsworld.top/)
 
 4. 直接邮件联系 colorsworld@protonmail.com
-
