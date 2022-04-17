@@ -15,9 +15,9 @@ Shu Lin，昵称阿书。林书就是真名。代词 she/they，是跨性别女�
 
 Twitter: [@sauricat](https://twitter.com/sauricat)
 
-Telegram Channel: [@ShuChann](https://t.me/ShuChann)
+Telegram Channel（不再更新）: [@ShuChann](https://t.me/ShuChann)
 
-Telegram: [@saurikatze](https://t.me/saurikatze)
+Telegram: [@linshu1729](https://t.me/linshu1729)
 
 # One Among Us（那些秋叶）
 
@@ -27,9 +27,7 @@ One Among Us ([one-among.us](https://one-among.us)) 是由 Shu 和 Hykilpikonna 
 
 Trans in Academia 的目标是打造一个让有志于或者正在从事学术的跨性别朋友和友跨人士们感到安全和友善的互助讨论环境。你可以通过以下方式加入：
 
-1. 加入我们的 [Discord 服务器](https://discord.gg/7BXSCdP7)
-
-2. 联系我获得关联 Telegram 群组的邀请链接
+1. 加入我们的 [Telegram Channel 和附属讨论群](https://t.me/transacademia)
 
 # ColorsWorld
 
