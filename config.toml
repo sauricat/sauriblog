@@ -1,7 +1,6 @@
 publishDir = "docs"
-baseURL = "https://sauri.ca/"
-DefaultContentLanguage = "en" # Theme's display language, supports: en, fr, zh, zh-hant
-languageCode = "en-us"
+DefaultContentLanguage = "zh" # Theme's display language, supports: en, fr, zh, zh-hant
+languageCode = "zh-cn"
 title = "Shu 的文章储存库"
 copyright = "Shu Lin 2021"
 theme = "diary"
