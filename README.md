@@ -1,5 +1,5 @@
 # sauricat.github.io
-Shu's blog. Now moved to [sauri.ca](https://sauri.ca).
+Shu's blog. Now moved to [shu-l.in](https://shu-l.in).
 
 # Usage
 First install [Hugo](https://github.com/gohugoio/hugo). 

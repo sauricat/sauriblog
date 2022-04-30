@@ -1,4 +1,5 @@
 publishDir = "docs"
+baseURL = "https://shu-l.in/"
 DefaultContentLanguage = "zh" # Theme's display language, supports: en, fr, zh, zh-hant
 languageCode = "zh-cn"
 title = "Shu 的文章储存库"
