@@ -92,8 +92,10 @@
     <loc>https://shu-l.in/tags/%E8%BA%AB%E4%BB%BD%E6%94%BF%E6%B2%BB/</loc>
     <lastmod>2021-06-07T01:06:00-04:00</lastmod>
   </url><url>
-    <loc>https://shu-l.in/me/</loc>
+    <loc>https://shu-l.in/about/</loc>
   </url><url>
-    <loc>https://shu-l.in/me/shu/</loc>
+    <loc>https://shu-l.in/about/shu/</loc>
+  </url><url>
+    <loc>https://shu-l.in/about/friends/</loc>
   </url>
 </urlset>

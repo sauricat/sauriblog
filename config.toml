@@ -45,6 +45,10 @@ label="your label"
 theme="github-light"
 
 [[menu.main]]
+url = "/posts"
+name = "所有文章"
+weight = 1
+[[menu.main]]
 url = "/categories"
 name = "按分类检索"
 weight = 2
@@ -53,14 +57,14 @@ url = "/tags"
 name = "按主题检索"
 weight = 3
 [[menu.main]]
-url = "/posts"
-name = "所有文章"
-weight = 1
-[[menu.main]]
-url = "/me/shu"
+url = "/about/shu"
 name = "关于作者"
 weight = 4
 [[menu.main]]
+url = "/about/friends"
+name = "朋友们"
+weight = 5
+[[menu.main]]
 url = "/index.xml"
 name = "RSS Feed"
-weight = 5
+weight = 6
