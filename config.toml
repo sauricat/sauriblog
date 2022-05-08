@@ -57,12 +57,12 @@ url = "/tags"
 name = "按主题检索"
 weight = 3
 [[menu.main]]
-url = "/about/shu"
-name = "关于作者"
-weight = 4
-[[menu.main]]
 url = "/about/friends"
 name = "朋友们"
+weight = 4
+[[menu.main]]
+url = "/about/shu"
+name = "关于作者"
 weight = 5
 [[menu.main]]
 url = "/index.xml"

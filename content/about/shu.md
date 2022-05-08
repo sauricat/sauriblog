@@ -3,8 +3,6 @@ title: "关于作者"
 comment: false
 ---
 
-# 作者简介
-
 Shu Lin，昵称阿书。林书就是真名。代词 she/they，是跨性别女生。从 2019 年 7 月开始 RLE，以女性身份生活。
 
 主业是哲学与社会思想，副业关注其中和性别理论有关的问题，希望用女权主义的方法来解读和重构哲学和思想史的正统叙事。
@@ -13,30 +11,11 @@ Shu Lin，昵称阿书。林书就是真名。代词 she/they，是跨性别女�
 
 有时在公共平台上说一点小话、写一些文章，希望能够尽量跳出网络回音壁（echo chamber）和日渐极化的对骂战场，用温柔给社群里的大家以力量，相互支持。
 
-Twitter: [@sauricat](https://twitter.com/sauricat)
+**联系方式**
 
-Telegram Channel（不再更新）: [@ShuChann](https://t.me/ShuChann)
+> Twitter: [@sauricat](https://twitter.com/sauricat)
+> 
+> Telegram: [@linshu1729](https://t.me/linshu1729)
 
-Telegram: [@linshu1729](https://t.me/linshu1729)
+**请点击左栏[「朋友们」](../about/friends)** 查看作者参与或推荐的项目，以及朋友们的个人部落格。
 
-# One Among Us（那些秋叶）
-
-One Among Us ([one-among.us](https://one-among.us)) 是由 Shu 和 Hykilpikonna 共同管理的跨性别者和友跨人士（trans allies）纪念网站。目前条目数量较少，希望有更多伙伴一起来参与编写工作，为了那些不应该忘却的记忆。
-
-# Trans in Academia
-
-Trans in Academia 的目标是打造一个让有志于或者正在从事学术的跨性别朋友和友跨人士们感到安全和友善的互助讨论环境。你可以通过以下方式加入：
-
-1. 加入我们的 [Telegram Channel 和附属讨论群](https://t.me/transacademia)
-
-# ColorsWorld
-
-ColorsWorld 是一个优秀的性别多元工作小组。你可以通过以下方式关注活动或与 ColorsWorld 取得联系：
-
-1. 通过电子邮件[订阅 CW Newsletter](https://www.getrevue.co/profile/colorsworld)（请手动将 colorsworld@getrevue.co 加入你的邮箱白名单，以免被错误当成垃圾邮件）
-
-2. 搜索微信公众号 **CW 未命名色彩**并关注
-
-3. 查看 [CW 文章备份站](https://colorsworld.top/)
-
-4. 直接邮件联系 colorsworld@protonmail.com
