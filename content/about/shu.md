@@ -13,9 +13,13 @@ Shu Lin，昵称阿书。林书就是真名。代词 she/they，是跨性别女�
 
 **联系方式**
 
-> Twitter: [@sauricat](https://twitter.com/sauricat)
-> 
-> Telegram: [@linshu1729](https://t.me/linshu1729)
+* Twitter: [@sauricat](https://twitter.com/sauricat)
+ 
+* Telegram: [@linshu1729](https://t.me/linshu1729)
 
-**请点击左栏[「朋友们」](../about/friends)** 查看作者参与或推荐的项目，以及朋友们的个人部落格。
+* Github: [sauricat](https://github.com/sauricat)
+
+* Discord: Shu#8832
+
+**请点击左栏[「朋友们」](../../about/friends)** 查看作者参与或推荐的项目，以及朋友们的个人部落格。
 
