@@ -29,7 +29,7 @@ comment: false
 
 拥有棉花糖一般柔软心灵的普通人类。
 
-# 我的
+# 社群
 
 ## One Among Us 
 
@@ -44,8 +44,6 @@ One Among Us（[one-among.us](https://one-among.us)）「那些秋叶」，是�
 Trans in Academia! 的目标是打造一个让有志于或者正在从事学术的跨性别朋友和友跨人士们感到安全和友善的互助讨论环境。你可以通过以下方式加入：
 
 1. 加入我们的 [Telegram Channel 和附属讨论群](https://t.me/transacademia)
-
-# 机构
 
 ## 跨性别相关 bot
 
