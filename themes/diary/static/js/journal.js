@@ -218,7 +218,7 @@ var toggleDarkMode = function () {
   isDarkMode = !isDarkMode;
   let icon = document.getElementById("darkModeToggleIcon");
   let icon2 = document.getElementById("darkModeToggleIcon2");
-  if (isDarkMode == true) {
+  if (isDarkMode) {
     document.cookie = "night=1;path=/";
     document.body.classList.add("night");
     icon.innerText = "light_mode";
@@ -228,6 +228,23 @@ var toggleDarkMode = function () {
     document.body.classList.remove("night");
     icon.innerText = "dark_mode";
     icon2.innerText = "dark_mode";
+  }
+
+  if(!isDarkMode){
+    var insertDiv = document.getElementById("cclicense");
+    insertDiv.innerHTML = 
+    "<a rel=\"license\" href=\"http://creativecommons.org/licenses/by/4.0/\">\
+    <img alt=\"知识共享许可协议\" style=\"border-width:0\" width=\"20\" height=\"20\" src=\"https://creativecommons.org/images/deed/cc_icon_black_x2.png\" />\
+    <img alt=\"署名\" style=\"border-width:0\" width=\"20\" height=\"20\" src=\"https://creativecommons.org/images/deed/attribution_icon_black_x2.png\" />\
+    </a>";
+  } 
+  else{
+    var insertDiv = document.getElementById("cclicense");
+    insertDiv.innerHTML = 
+      "<a rel=\"license\" href=\"http://creativecommons.org/licenses/by/4.0/\">\
+      <img alt=\"知识共享许可协议\" style=\"border-width:0\" width=\"20\" height=\"20\" src=\"https://creativecommons.org/images/deed/cc_icon_white_x2.png\" />\
+      <img alt=\"署名\" style=\"border-width:0\" width=\"20\" height=\"20\" src=\"https://creativecommons.org/images/deed/attribution_icon_white_x2.png\" />\
+      </a>";
   }
 };
 
@@ -293,3 +310,5 @@ var closeDrawer = function () {
 document.getElementById("drawer-mask").addEventListener("click", function () {
   closeDrawer();
 });
+
+

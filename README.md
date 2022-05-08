@@ -16,6 +16,6 @@ To backup all the articles written by me and my friends in this blog, just downl
 
 Hugo theme “Diary” by Rise transplanted from Makito’s “Journal” in the `themes/diary` directory: MIT license. 
 
-All articles in the `content` directory (unless otherwise stated): CC-BY 4.0. Please indicate the author name as “Shu Lin,” or “Shu 的文章储存库.”
+All articles in the `content` directory (unless otherwise stated): CC BY 4.0. Please indicate the author name as “Shu Lin,” or “Shu 的文章储存库.”
 
 All other code: MIT license. 
