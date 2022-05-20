@@ -3,34 +3,52 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://shu-l.in/categories/</loc>
-    <lastmod>2022-05-10T00:03:00-04:00</lastmod>
+    <lastmod>2022-05-20T16:00:00-04:00</lastmod>
   </url><url>
     <loc>https://shu-l.in/posts/</loc>
-    <lastmod>2022-05-10T00:03:00-04:00</lastmod>
+    <lastmod>2022-05-20T16:00:00-04:00</lastmod>
   </url><url>
     <loc>https://shu-l.in/</loc>
-    <lastmod>2022-05-10T00:03:00-04:00</lastmod>
+    <lastmod>2022-05-20T16:00:00-04:00</lastmod>
   </url><url>
     <loc>https://shu-l.in/tags/</loc>
-    <lastmod>2022-05-10T00:03:00-04:00</lastmod>
+    <lastmod>2022-05-20T16:00:00-04:00</lastmod>
+  </url><url>
+    <loc>https://shu-l.in/tags/%E7%A7%91%E6%99%AE/</loc>
+    <lastmod>2022-05-20T16:00:00-04:00</lastmod>
+  </url><url>
+    <loc>https://shu-l.in/tags/%E8%B7%A8%E6%80%A7%E5%88%AB/</loc>
+    <lastmod>2022-05-20T16:00:00-04:00</lastmod>
+  </url><url>
+    <loc>https://shu-l.in/categories/%E8%B7%A8%E6%80%A7%E5%88%AB%E7%9B%B8%E5%85%B3/</loc>
+    <lastmod>2022-05-20T16:00:00-04:00</lastmod>
+  </url><url>
+    <loc>https://shu-l.in/tags/%E5%A5%B3%E6%9D%83%E4%B8%BB%E4%B9%89/</loc>
+    <lastmod>2022-05-20T16:00:00-04:00</lastmod>
+  </url><url>
+    <loc>https://shu-l.in/tags/%E7%A4%BE%E7%BE%A4%E5%8A%A8%E5%8A%9B/</loc>
+    <lastmod>2022-05-20T16:00:00-04:00</lastmod>
+  </url><url>
+    <loc>https://shu-l.in/posts/trans-feminism/</loc>
+    <lastmod>2022-05-20T16:00:00-04:00</lastmod>
+  </url><url>
+    <loc>https://shu-l.in/tags/%E6%80%A7%E5%88%AB%E7%A0%94%E7%A9%B6/</loc>
+    <lastmod>2022-05-20T16:00:00-04:00</lastmod>
+  </url><url>
+    <loc>https://shu-l.in/posts/haiku-hanaduki/</loc>
+    <lastmod>2022-05-20T10:50:00-04:00</lastmod>
+  </url><url>
+    <loc>https://shu-l.in/tags/%E4%BF%B3%E5%8F%A5/</loc>
+    <lastmod>2022-05-20T10:50:00-04:00</lastmod>
+  </url><url>
+    <loc>https://shu-l.in/tags/%E4%B8%8A%E6%B5%B7/</loc>
+    <lastmod>2022-05-20T10:50:00-04:00</lastmod>
+  </url><url>
+    <loc>https://shu-l.in/categories/%E6%96%87%E5%AD%A6/</loc>
+    <lastmod>2022-05-20T10:50:00-04:00</lastmod>
   </url><url>
     <loc>https://shu-l.in/posts/what-is-trans/</loc>
     <lastmod>2022-05-10T00:03:00-04:00</lastmod>
-  </url><url>
-    <loc>https://shu-l.in/tags/%E7%A7%91%E6%99%AE/</loc>
-    <lastmod>2022-05-10T00:03:00-04:00</lastmod>
-  </url><url>
-    <loc>https://shu-l.in/tags/%E8%B7%A8%E6%80%A7%E5%88%AB/</loc>
-    <lastmod>2022-05-10T00:03:00-04:00</lastmod>
-  </url><url>
-    <loc>https://shu-l.in/categories/%E8%B7%A8%E6%80%A7%E5%88%AB%E7%9B%B8%E5%85%B3/</loc>
-    <lastmod>2022-05-10T00:03:00-04:00</lastmod>
-  </url><url>
-    <loc>https://shu-l.in/tags/%E7%A4%BE%E7%BE%A4%E5%8A%A8%E5%8A%9B/</loc>
-    <lastmod>2022-05-07T12:00:00-04:00</lastmod>
-  </url><url>
-    <loc>https://shu-l.in/tags/%E6%80%A7%E5%88%AB%E7%A0%94%E7%A9%B6/</loc>
-    <lastmod>2022-05-07T12:00:00-04:00</lastmod>
   </url><url>
     <loc>https://shu-l.in/posts/research-method/</loc>
     <lastmod>2022-05-07T12:00:00-04:00</lastmod>
@@ -89,9 +107,6 @@
     <loc>https://shu-l.in/tags/%E8%AF%BB%E4%B9%A6/</loc>
     <lastmod>2021-06-28T02:20:00-04:00</lastmod>
   </url><url>
-    <loc>https://shu-l.in/tags/%E5%A5%B3%E6%9D%83%E4%B8%BB%E4%B9%89/</loc>
-    <lastmod>2021-06-28T02:20:00-04:00</lastmod>
-  </url><url>
     <loc>https://shu-l.in/categories/%E5%A5%B3%E6%9D%83%E4%B8%BB%E4%B9%89/</loc>
     <lastmod>2021-06-28T02:20:00-04:00</lastmod>
   </url><url>
@@ -104,13 +119,12 @@
     <loc>https://shu-l.in/posts/identity/</loc>
     <lastmod>2021-06-07T01:06:00-04:00</lastmod>
   </url><url>
-    <loc>https://shu-l.in/tags/%E8%BA%AB%E4%BB%BD%E6%94%BF%E6%B2%BB/</loc>
-    <lastmod>2021-06-07T01:06:00-04:00</lastmod>
-  </url><url>
     <loc>https://shu-l.in/about/</loc>
   </url><url>
     <loc>https://shu-l.in/about/shu/</loc>
   </url><url>
     <loc>https://shu-l.in/about/friends/</loc>
+  </url><url>
+    <loc>https://shu-l.in/about/fragments/</loc>
   </url>
 </urlset>
