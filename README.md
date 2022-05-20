@@ -1,18 +1,22 @@
-# Shu's blog
+# The Shu Personal Blog
 
-Built by github pages. Originally [sauricat.github.io](https://sauricat.github.io), and now moved to TLD [shu-l.in](https://shu-l.in).
+Built by github pages. Some thought, some life, and maybe, some philosophy. Gender theory / community empowerment. 
 
-# Usage
+## Usage
 
-First install [Hugo](https://github.com/gohugoio/hugo), and then change to the project directory and run `hugo`. 
+Requirement: [Hugo](https://github.com/gohugoio/hugo).
 
-You can also type `hugo server` in your terminal under this directory to run a mini server on your `localhost` for testing. 
+These instructions are for me myself, I will do these (since 2022-05-20):
+1. Modify the articles and configurations (all but the `docs` directory). With daemon `hugo server` doing harmless test by running a mini server on `localhost`. 
+2. Make commits for them if satisfied.
+3. Run `hugo` to build the site. This will generate static html  files in the `docs` directory. 
+4. Make commits for those builds, and push. 
 
-# Structure
+## Structure
 
 To backup all the articles written by me and my friends in this blog, just download all files in the `content` directory. 
 
-# License
+## License
 
 Hugo theme “Diary” by Rise transplanted from Makito’s “Journal” in the `themes/diary` directory: MIT license. 
 
