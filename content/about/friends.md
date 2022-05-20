@@ -13,9 +13,9 @@ comment: false
 
 一只懂人类语言的猫猫。
 
-## [ℕ𝟙𝕄𝔸𝕆](https://t.me/nekobroadcast)
+## [Maura](https://t.me/nekobroadcast)
 
-松软猫猫，超甜超可爱。
+你家松软大猫，超甜超可爱。
 
 ## [dram🎀](https://dram.page/)
 
