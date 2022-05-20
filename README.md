@@ -1,6 +1,6 @@
 # The Shu Personal Blog
 
-Built by github pages. Some thought, some life, and maybe, some philosophy. Gender theory / community empowerment. 
+Built by github pages. Some thought, some life, and maybe, some philosophy. Gender theory / community empowerment. Mostly in Chinese Simplified. 
 
 ## Usage
 
