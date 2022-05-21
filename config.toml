@@ -49,12 +49,8 @@ url = "/posts"
 name = "所有文章"
 weight = 1
 [[menu.main]]
-url = "/categories"
-name = "按分类检索"
-weight = 2
-[[menu.main]]
 url = "/tags"
-name = "按主题检索"
+name = "分类检索"
 weight = 3
 [[menu.main]]
 url = "/about/friends"
@@ -62,7 +58,7 @@ name = "朋友们"
 weight = 4
 [[menu.main]]
 url = "/about/shu"
-name = "关于作者"
+name = "关于我"
 weight = 5
 [[menu.main]]
 url = "/index.xml"

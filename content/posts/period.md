@@ -1,9 +1,8 @@
 ---
 date: 2021-12-13T06:56:00-04:00
 description: 我们如何在表达自己情感的同时，不伤害别人。
-tags: [月经, 社群动力]
+tags: [跨性别]
 title: "跨性别女生能不能羡慕来月经？"
-categories: 跨性别相关
 comment: false
 ---
 

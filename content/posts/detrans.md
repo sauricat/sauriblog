@@ -1,9 +1,8 @@
 ---
 date: 2021-09-02T01:09:00-04:00
 description: 反对跨性别的理由总是看上去简单直接，但很容易找到漏洞。
-tags: [HRT, 社群动力]
 title: "对虫合麒麟文章的回应：因为跨性别可能会后悔，所以一定要反跨吗？"
-categories: 跨性别相关
+tags: [跨性别]
 comment: false
 ---
 注：本文是对某位曾经认为自己是跨性别男性，现已 detransition 的推友的[回应](https://twitter.com/sauricat/status/1433111249756192773?s=20)。

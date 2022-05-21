@@ -1,9 +1,8 @@
 ---
 date: 2022-05-20T10:50:00-04:00
 description: 古北有花树，持立不灭法，故乡是不乡。
-tags: [俳句, 上海]
 title: "花槻や古北不磨法ふさとかな"
-categories: 文学
+tags: [生活]
 comment: false
 ---
 

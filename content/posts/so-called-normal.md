@@ -1,9 +1,8 @@
 ---
 date: 2021-11-08T16:43:00-04:00
 description: 当我们说「正常人」时，我们在说什么？
-tags: [社群动力]
+tags: [跨性别]
 title: "关于「正常」、「不正常」、跨性别「圈子」及其他"
-categories: 跨性别相关
 comment: false
 ---
 
