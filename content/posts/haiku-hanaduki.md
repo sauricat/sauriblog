@@ -61,9 +61,9 @@ comment: false
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;布佐登那理氣理　　　pusatö narikeri
 
+## 朗読
 
-
-
+[» 朗読：天津 禰子麿](../../resources/harusugite.ogg)
 
 
 
