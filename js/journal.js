@@ -268,7 +268,8 @@ if (night == "") {
   }
 }
 
-document
+try {
+  document
   .getElementById("darkModeToggleButton")
   .addEventListener("click", function () {
     toggleDarkMode();
@@ -279,6 +280,11 @@ document
   .addEventListener("click", function () {
     toggleDarkMode();
   });
+} catch(_) {
+  
+}
+
+
 
 // Drawer
 
@@ -311,5 +317,3 @@ var closeDrawer = function () {
 document.getElementById("drawer-mask").addEventListener("click", function () {
   closeDrawer();
 });
-
-
