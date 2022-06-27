@@ -61,6 +61,10 @@ url = "/about/shu"
 name = "关于我"
 weight = 5
 [[menu.main]]
+url = "https://2.shu-l.in"
+name = "第 2 分站"
+weight = 6
+[[menu.main]]
 url = "/index.xml"
 name = "RSS Feed"
-weight = 6
+weight = 7
