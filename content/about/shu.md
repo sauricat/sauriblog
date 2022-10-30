@@ -25,6 +25,8 @@ Shu Lin，昵称阿书。林书就是真名。代词 she/they，是跨性别女�
 
 * Matrix: @sauricat:matrix.org
 
+* Mastodon: [@sauricat@m.cmx.im](https://m.cmx.im/@sauricat){{< figure link="https://m.cmx.im/@sauricat" rel="me" >}}
+
 
 **请点击左栏[「朋友们」](../friends)** 查看作者参与或推荐的项目，以及朋友们的个人部落格。
 
