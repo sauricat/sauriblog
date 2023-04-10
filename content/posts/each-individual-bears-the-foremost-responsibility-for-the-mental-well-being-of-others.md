@@ -8,7 +8,7 @@ comment: false
 
 > Each individual bears the foremost responsibility for the mental well-being of others.
 
-这句话是 Rinna 提出的，非常引人鼓舞。
+这句话是 Rinna 提出的，非常鼓舞人。
 这个感觉是一个伦理学的好话题。看上去反直觉，但是希望能够得到更充分的论证。
 
 - Levinas 的 alterity and infinity
