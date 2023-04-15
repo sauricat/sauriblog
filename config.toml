@@ -60,10 +60,10 @@ weight = 4
 url = "/about/shu"
 name = "关于我"
 weight = 5
-[[menu.main]]
-url = "https://2.sauri.ca"
-name = "第 2 分站"
-weight = 6
+# [[menu.main]]
+# url = "https://2.sauri.ca"
+# name = "第 2 分站"
+# weight = 6
 [[menu.main]]
 url = "/index.xml"
 name = "RSS Feed"
