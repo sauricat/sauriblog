@@ -2,7 +2,7 @@
 date: 2023-04-10T05:16:00-04:00
 description: 看上去反直觉，但是希望能够得到更充分的论证。
 title: MEMO｜每个人是他人精神健康第一责任人
-tags: [精神健康, 哲学相关]
+tags: [哲学相关]
 comment: false
 ---
 
