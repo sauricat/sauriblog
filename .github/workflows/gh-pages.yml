@@ -33,5 +33,5 @@ jobs:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./docs
           publish_branch: deploy
-          cname: shu-l.in
+          cname: sauri.ca
           destination_dir: ./.
