@@ -3,7 +3,7 @@ title: "关于作者"
 comment: false
 ---
 
-Shu Lin，昵称阿书。林书就是真名。代词 she/they，是跨性别女生。从 2019 年 7 月开始 RLE，以女性身份生活。
+北雁清凉，也用 Fūrin et Asabikeshiinh（风铃与捕梦网）、Shu Lin（阿书）这两个名字。唯一的识别性 ID 是 sauricat（秋刀鱼猫）。代词 she/they，是跨性别女生。从 2019 年 7 月开始 RLE，以女性身份生活。
 
 主业是哲学与社会思想，副业关注其中和性别理论有关的问题，希望用女权主义的方法来解读和重构哲学和思想史的正统叙事。
 
@@ -13,7 +13,7 @@ Shu Lin，昵称阿书。林书就是真名。代词 she/they，是跨性别女�
 
 **联系方式**
 
-* Mastodon: [@sauricat@m.cmx.im](https://m.cmx.im/@sauricat)
+* Mastodon: [@sauricat@m.cmx.im](https://m.cmx.im/@sauricat){{< figure link="https://m.cmx.im/@sauricat" rel="me" >}}
 
 * Twitter: [@sauricat](https://twitter.com/sauricat)
  
@@ -24,8 +24,6 @@ Shu Lin，昵称阿书。林书就是真名。代词 she/they，是跨性别女�
 * Discord: Shu#8832
 
 * Matrix: @sauricat:matrix.org
-
-* Mastodon: [@sauricat@m.cmx.im](https://m.cmx.im/@sauricat){{< figure link="https://m.cmx.im/@sauricat" rel="me" >}}
 
 
 **请点击左栏[「朋友们」](../friends)** 查看作者参与或推荐的项目，以及朋友们的个人部落格。

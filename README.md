@@ -1,4 +1,4 @@
-# The Shu Personal Blog
+# Sauricat’s Personal Blog
 
 Built via github pages. Some thought, some life, and maybe, some philosophy. Gender theory / community empowerment. Mostly in Chinese Simplified. 
 
@@ -14,6 +14,13 @@ To backup all the articles written by me and my friends in this blog, just downl
 
 Hugo theme “Diary” by Rise transplanted from Makito’s “Journal” modified by me in the `themes/diary` submodule: MIT license.
 
-All articles in the `content` directory (unless otherwise stated): CC BY 4.0. Please indicate the author name as “Shu Lin,” or “Shu 的文章储存库.”
+All articles in the `content` directory (unless otherwise stated): CC BY 4.0. Please indicate the author name as one of the following (they are equivalent):
+
+- 北雁清凉
+- 北雁清凉的文章储存库
+- Shu Lin
+- Shu 的文章储存库
+- Fūrin et Asabikeshiinh
+- 风铃与捕梦网
 
 All other code: MIT license.
