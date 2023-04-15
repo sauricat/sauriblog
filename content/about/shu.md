@@ -13,7 +13,7 @@ comment: false
 
 **联系方式**
 
-* Mastodon: [@sauricat@m.cmx.im](https://m.cmx.im/@sauricat){{< figure link="https://m.cmx.im/@sauricat" rel="me" >}}
+* Mastodon: [@sauricat@m.cmx.im](https://m.cmx.im/@sauricat)
 
 * Twitter: [@sauricat](https://twitter.com/sauricat)
  
@@ -25,6 +25,7 @@ comment: false
 
 * Matrix: @sauricat:matrix.org
 
+{{< figure link="https://m.cmx.im/@sauricat" rel="me" >}}
 
 **请点击左栏[「朋友们」](../friends)** 查看作者参与或推荐的项目，以及朋友们的个人部落格。
 
