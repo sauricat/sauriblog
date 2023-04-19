@@ -17,7 +17,7 @@ comment: false
 
 * Twitter: [@sauricat](https://twitter.com/sauricat)
  
-* Telegram Channel: [@ShuChann](https://t.me/ShuChann)
+* Telegram Channels: [@saurientry](https://t.me/saurientry)
 
 * Github: [sauricat](https://github.com/sauricat)
 
