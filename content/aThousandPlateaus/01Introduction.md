@@ -1,7 +1,7 @@
 ---
 date: 2023-04-22T13:45:00-04:00
 description: 
-title: 2023-04-22 Introduction
+title: 千高原读书会 01 Introduction
 tags: [千高原读书会]
 comment: false
 ---
