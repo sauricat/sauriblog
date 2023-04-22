@@ -65,6 +65,10 @@ weight = 5
 # name = "第 2 分站"
 # weight = 6
 [[menu.main]]
+url = "/aThousandPlateaus"
+name = "千高原"
+weight = 6
+[[menu.main]]
 url = "/index.xml"
 name = "RSS Feed"
 weight = 7
