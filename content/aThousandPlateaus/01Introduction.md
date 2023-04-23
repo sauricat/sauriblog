@@ -1,14 +1,13 @@
 ---
 date: 2023-04-22T13:45:00-04:00
-description: 
 title: 千高原读书会 01 Introduction
-tags: [千高原读书会]
 comment: false
 ---
 
 ## Preface
 
 **Forwarded from Schizoanalysand K / 千酱精分现场**
+
 > 本文转自【宁波晚报】；
 > 
 > 慈溪的王先生最近处于崩溃的边缘，因为他的儿子私自在书店购买禁书，并且超剂量阅读，对身体和心理都造成了严重后果。为此，他通过各种渠道对出售书籍的书店进行了投诉，希望讨一个说法，也希望此类情况能引发社会的关注。
@@ -24,6 +23,9 @@ comment: false
 > （今天懒了，不整烂活了）
 
 **Forwarded from [The Nighttime Watcher - 药物减害中文知识库](https://https://t.me/HarmReduction_ZH)**
+
+**仅作为讲解使用，不可用于 OD 指南！**
+
 > Dextromethorphan / DXM / 右美沙芬 是一种常见于非处方止咳药中的活性成分，因其在较高剂量下产生的解离 (dissociation) 等作用，部分人选择超说明书剂量使用。
 > 
 > DXM 效果因剂量而异，通常分为**四个“高原”（Plateau，也可以理解为“平台”）**。请参考以下剂量范围，并尽量选择剂量低侧：
@@ -58,10 +60,13 @@ comment: false
 
 ## Radicle-System
 
-1. & 2. Principles of connection and heterogeneity: any point of a rhizome can be connected to anything other, and must be.
-3. Principle of multiplicity: it is only when the multiple is effectively treated as a substantive, “multiplicity,” that it ceases to have any relation to the One as subject or object, natural or spiritual reality, image and world.
-4. Principle of asignifying rupture: against the oversignifying breaks separating structures or cutting across a single structure.
-5. & 6. Principle of cartography and decalcomania: a rhizome is not amenable to any structural or generative model.
+\1. & 2. Principles of connection and heterogeneity: any point of a rhizome can be connected to anything other, and must be.
+
+\3. Principle of multiplicity: it is only when the multiple is effectively treated as a substantive, “multiplicity,” that it ceases to have any relation to the One as subject or object, natural or spiritual reality, image and world.
+
+\4. Principle of asignifying rupture: against the oversignifying breaks separating structures or cutting across a single structure.
+
+\5. & 6. Principle of cartography and decalcomania: a rhizome is not amenable to any structural or generative model.
 
 - “Thought is not arborescent, and the brain is not a rooted or ramified matter.” (p. 15)
 - acentered system
