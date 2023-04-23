@@ -6,7 +6,7 @@ tags: [生活]
 comment: false
 ---
 
-> 请先阅读 [2k followers 时候的自白](../twitter-me.md)。
+> 请先阅读 [2k followers 时候的自白](../twitter-me)。
 
 最近我怎么变成医药精神病推主了，之前不是跨权推主吗？
 
