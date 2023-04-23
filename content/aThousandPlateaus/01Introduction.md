@@ -30,21 +30,7 @@ comment: false
 > 
 > DXM 效果因剂量而异，通常分为**四个“高原”（Plateau，也可以理解为“平台”）**。请参考以下剂量范围，并尽量选择剂量低侧：
 > 
->   第一高原（1.5-2.5 mg/kg）：轻度的欣快感，类似于酒精的感觉。
-> 
->   第二高原（2.5-7.5 mg/kg）：更强烈的欣快感，可能伴有视听幻觉。
-> 
->   第三高原（7.5-15 mg/kg）：明显的解离效应，丧失对现实的感知，可能出现强烈的幻觉。此剂量区间开始务必要有 Tripsitter 在场（[什么是 Tripsitter？](https://t.me/c/1987192769/7)）
-> 
->   第四高原（15-30 mg/kg）：极度的解离和幻觉，对现实完全丧失感知，可能导致危险的行为和生理反应。
-> 
-> 风险与耐受：
-> 我们不建议任何人使用超过10mg/kg的剂量。如果您执意这么做，请寻找一位你可以信任的朋友作为 Tripsitter，并当心[血清素综合征](https://zh.wikipedia.org/wiki/%E8%A1%80%E6%B8%85%E7%B4%A0%E7%BB%BC%E5%90%88%E7%97%87)等副作用，在必要时寻求专业医疗帮助。
-> 
-> 如果您在使用 SSRI/SNRI/MAOI 类抗抑郁药，请总是使用最低剂量的 DXM，以避免血清素综合征的风险。
-> 
-> 对于一名60kg的成年人，我们建议将每2周的剂量控制在600mg以内，以降低可能的药物耐受与依赖。举个例子：如果您选择一次使用200mg，每两周请勿使用超过3次。
-
+> （以下省略）
 
 ## Rhizome: creeping rootstalk 块茎
 
@@ -60,13 +46,13 @@ comment: false
 
 ## Radicle-System
 
-\1. & 2. Principles of connection and heterogeneity: any point of a rhizome can be connected to anything other, and must be.
+(1. & 2.) Principles of connection and heterogeneity: any point of a rhizome can be connected to anything other, and must be.
 
-\3. Principle of multiplicity: it is only when the multiple is effectively treated as a substantive, “multiplicity,” that it ceases to have any relation to the One as subject or object, natural or spiritual reality, image and world.
+(3.) Principle of multiplicity: it is only when the multiple is effectively treated as a substantive, “multiplicity,” that it ceases to have any relation to the One as subject or object, natural or spiritual reality, image and world.
 
-\4. Principle of asignifying rupture: against the oversignifying breaks separating structures or cutting across a single structure.
+(4.) Principle of asignifying rupture: against the oversignifying breaks separating structures or cutting across a single structure.
 
-\5. & 6. Principle of cartography and decalcomania: a rhizome is not amenable to any structural or generative model.
+(5. & 6.) Principle of cartography and decalcomania: a rhizome is not amenable to any structural or generative model.
 
 - “Thought is not arborescent, and the brain is not a rooted or ramified matter.” (p. 15)
 - acentered system
