@@ -37,6 +37,10 @@ Usagi by the shore.
 
 北雁家老太太（误
 
+## [雪糕](https://lyc.sh/blog/)
+
+雪糕，蛋挞，塔可，都是好吃的！
+
 # 社群
 
 ## One Among Us Transgender Support
