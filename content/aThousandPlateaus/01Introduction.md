@@ -1,8 +1,10 @@
 ---
 date: 2023-04-22T13:45:00-04:00
-title: 千高原读书会 01 Introduction
+title: 千高原读书会 01 块茎
 comment: false
 ---
+
+这次读第一章的「导论部分」，理解块茎、层理/解理等基础概念。
 
 ## Preface
 
