@@ -19,6 +19,9 @@ theme = "diary"
     style = "perldoc"
     tabWidth = 4
 
+  [markup.goldmark.renderer]
+    unsafe= true
+
 [params]
 subtitle = ""
 enableGitalk = true
