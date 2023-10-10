@@ -215,6 +215,18 @@ document.querySelectorAll("table").forEach(function (elem) {
 var isDarkMode = false;
 
 var toggleDarkMode = function () {
+  let setGiscusTheme = function (themeName) {
+    const iframe = document.querySelector('iframe.giscus-frame');
+    if (!iframe) return;
+    iframe.contentWindow.postMessage({
+      giscus: {
+        setConfig: {
+          theme: themeName
+        }
+      }
+    }, '*');
+  }
+
   isDarkMode = !isDarkMode;
   let icon = document.getElementById("darkModeToggleIcon");
   let icon2 = document.getElementById("darkModeToggleIcon2");
@@ -223,10 +235,11 @@ var toggleDarkMode = function () {
     document.body.classList.add("night");
     icon.innerText = "light_mode";
     icon2.innerText = "light_mode";
-    
-    // urgently and desparately need refactoring 
+
+    setGiscusTheme("dark");
+    // urgently and desparately need refactoring
     var insertDiv = document.getElementById("cclicense");
-    insertDiv.innerHTML = 
+    insertDiv.innerHTML =
       "<a rel=\"license\" href=\"http://creativecommons.org/licenses/by/4.0/\">\
       <img alt=\"知识共享许可协议\" style=\"border-width:0\" width=\"20\" height=\"20\" src=\"https://creativecommons.org/images/deed/cc_icon_white_x2.png\" />\
       <img alt=\"署名\" style=\"border-width:0\" width=\"20\" height=\"20\" src=\"https://creativecommons.org/images/deed/attribution_icon_white_x2.png\" />\
@@ -237,10 +250,11 @@ var toggleDarkMode = function () {
     document.body.classList.remove("night");
     icon.innerText = "dark_mode";
     icon2.innerText = "dark_mode";
+    setGiscusTheme("light");
 
-    // urgently and desparately need refactoring 
+    // urgently and desparately need refactoring
     var insertDiv = document.getElementById("cclicense");
-    insertDiv.innerHTML = 
+    insertDiv.innerHTML =
     "<a rel=\"license\" href=\"http://creativecommons.org/licenses/by/4.0/\">\
     <img alt=\"知识共享许可协议\" style=\"border-width:0\" width=\"20\" height=\"20\" src=\"https://creativecommons.org/images/deed/cc_icon_black_x2.png\" />\
     <img alt=\"署名\" style=\"border-width:0\" width=\"20\" height=\"20\" src=\"https://creativecommons.org/images/deed/attribution_icon_black_x2.png\" />\
@@ -270,18 +284,18 @@ if (night == "") {
 
 try {
   document
-  .getElementById("darkModeToggleButton")
-  .addEventListener("click", function () {
-    toggleDarkMode();
-  });
+    .getElementById("darkModeToggleButton")
+    .addEventListener("click", function () {
+      toggleDarkMode();
+    });
 
-document
-  .getElementById("darkModeToggleButton2")
-  .addEventListener("click", function () {
-    toggleDarkMode();
-  });
-} catch(_) {
-  
+  document
+    .getElementById("darkModeToggleButton2")
+    .addEventListener("click", function () {
+      toggleDarkMode();
+    });
+} catch (_) {
+
 }
 
 
