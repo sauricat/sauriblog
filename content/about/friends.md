@@ -57,7 +57,7 @@ One Among Us（[one-among.us](https://one-among.us)）「那些秋叶」，是�
 
 ### Trans in Academia!
 
-Trans in Academia! 的目标是打造一个让有志于或者正在从事学术的跨性别朋友和友跨人士们感到安全和友善的互助讨论环境。你可以通过加入 [Telegram Channel 和附属讨论群](https://t.me/transacademia) 参与我们。
+Trans in Academia! 的目标是打造一个让有志于或者正在从事学术的跨性别朋友和友跨人士们感到安全和友善的互助讨论环境。你可以通过加入 [Telegram Channel 和附属讨论群](https://t.me/transacademicorg) 参与我们。
 
 ## Project Trans
 
