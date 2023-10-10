@@ -9,9 +9,9 @@ comment: false
 
 一只可爱的小狐狸。
 
-## [Yuzu](https://kamisu66.com/)
+## [Yuzu](https://preview.blog-yuzukicat.pages.dev/)
 
-一只懂人类语言的猫猫。
+A cat knows human language.
 
 ## [Maura](https://t.me/nekobroadcast)
 
