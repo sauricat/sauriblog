@@ -37,6 +37,10 @@ Usagi by the shore.
 
 北雁家老太太（误
 
+## [藍貓 八千代](https://dawn.moe/)
+
+(formerly as 八雲) Amateur professional, professional amateur.
+
 ## [雪糕](https://lyc.sh/blog/)
 
 雪糕，蛋挞，塔可，都是好吃的！
