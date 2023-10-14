@@ -13,15 +13,15 @@ comment: false
 
 **联系方式**
 
-* Mastodon: [@sauricat@m.cmx.im](https://m.cmx.im/@sauricat)
+* Fediverse (Pleroma): [rhyme417@kazv.moe](https://kazv.moe/users/rhyme417) （以北雁梦铃的名义，可以和 Mastodon 互通）
 
 * Twitter: [@sauricat](https://twitter.com/sauricat)
  
-* Telegram Channels: [@saurientry](https://t.me/saurientry)
+* Telegram Channels: [@saurientry](https://t.me/saurientry) （部分以北雁梦铃的名义）
 
 * Github: [sauricat](https://github.com/sauricat)
 
-* Discord: Shu#8832
+* Discord: sauricat
 
 * Matrix: @sauricat:matrix.org
 
