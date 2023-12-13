@@ -16,6 +16,8 @@ Hugo theme “Diary” by Rise transplanted from Makito’s “Journal” modifi
 
 All articles in the `content` directory (unless otherwise stated): CC BY 4.0. Please indicate the author name as one of the following (they are equivalent):
 
+- 北雁书
+- 北雁书的文章储存库
 - 北雁清凉
 - 北雁清凉的文章储存库
 - Shu Lin

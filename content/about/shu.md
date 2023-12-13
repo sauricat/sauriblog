@@ -3,7 +3,7 @@ title: "关于作者"
 comment: false
 ---
 
-北雁清凉，也用 Fūrin et Asabikeshiinh（风铃与捕梦网）、Shu Lin（阿书）这两个名字。唯一的识别性 ID 是 sauricat（秋刀鱼猫）。代词 she/they，是跨性别女生。从 2019 年 7 月开始 RLE，以女性身份生活。
+北雁书。也曾经用过 Fūrin et Asabikeshiinh（风铃与捕梦网）、Shu Lin、北雁清凉等名字。唯一的识别性 ID 是 sauricat（秋刀鱼猫）。代词 she/they，是跨性别女生。从 2019 年 7 月开始 RLE，以女性身份生活。
 
 主业是哲学与社会思想，副业关注其中和性别理论有关的问题，希望用女权主义的方法来解读和重构哲学和思想史的正统叙事。
 
