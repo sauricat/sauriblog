@@ -21,6 +21,10 @@ A cat knows human language.
 
 Usagi by the shore.
 
+## [西风 tusooa](https://blog.tusooa.xyz/)
+
+迷糊萝莉。何事西风不待人。
+
 ## [dram🎀](https://dram.page/)
 
 红魔馆里的妹妹。
