@@ -10,7 +10,7 @@ comment: false
 >
 > ——安徒生《海的女儿》
 
-我于2023年11月22日在加拿大蒙特利尔都会手术中心（GrS/CMC Montreal）接受性别肯定手术（GCS，又称性/别重置手术 GRS/SRS）完成阴道和外阴的再造（vaginoplasty）。
+我于2023年11月22日在加拿大蒙特利尔都会手术中心（GrS/CMC Montreal）接受性别肯定手术（GCS，又称性/别重置手术 GRS/SRS）完成阴道和外阴的再造（vaginoplasty）。因为是安大略学生医保（UHIP）报销范围所以免费了。
 
 ## 过日子
 
