@@ -49,29 +49,29 @@ theme="github-light"
 
 [[menu.main]]
 url = "/posts"
-name = "所有文章"
+name = "文章"
 weight = 1
 [[menu.main]]
 url = "/tags"
-name = "分类检索"
+name = "标签"
 weight = 3
 [[menu.main]]
 url = "/about/friends"
 name = "朋友们"
-weight = 4
+weight = 50
 [[menu.main]]
 url = "/about/shu"
 name = "关于我"
-weight = 5
-# [[menu.main]]
-# url = "https://2.sauri.ca"
-# name = "第 2 分站"
-# weight = 6
+weight = 40
+[[menu.main]]
+url = "/poems"
+name = "诗章"
+weight = 7
 [[menu.main]]
 url = "/athousandplateaus"
-name = "千高原"
+name = "笔记"
 weight = 6
 [[menu.main]]
 url = "/index.xml"
 name = "RSS Feed"
-weight = 7
+weight = 100
