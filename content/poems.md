@@ -15,3 +15,9 @@ comment: false
 
 蜜雪冰城里。温茶盼暖春。
 不知临邑陌。白兔叩谁门。
+
+## 参考
+
+- [西风的诗](https://blog.tusooa.xyz/poems/)
+
+- [缃雨居](https://www.51xueci.com/grcj.htm)
