@@ -1,6 +1,7 @@
 ---
 date: 2023-05-20T13:45:00-04:00
 title: 千高原读书会 02 无器官的身体
+description: 读书会记录。第六章。
 comment: false
 ---
 
