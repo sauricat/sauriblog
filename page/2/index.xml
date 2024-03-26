@@ -1,4 +1,25 @@
-<?xml-stylesheet href="/rss.xsl" type="text/xsl"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>北雁书的文章储存库</title><link>https://sauri.ca/</link><description>Recent content on 北雁书的文章储存库</description><generator>Hugo -- gohugo.io</generator><language>zh-cn</language><copyright>北雁书 2021-2024</copyright><lastBuildDate>Sun, 18 Feb 2024 19:00:00 -0500</lastBuildDate><atom:link href="https://sauri.ca/index.xml" rel="self" type="application/rss+xml"/><item><title>关于药物滥用问题的合集 2：如果你是潜在的使用者</title><link>https://sauri.ca/posts/drug-abuse-advice/</link><pubDate>Sat, 15 Apr 2023 07:00:00 -0400</pubDate><guid>https://sauri.ca/posts/drug-abuse-advice/</guid><description>北雁书的文章储存库 https://sauri.ca/posts/drug-abuse-advice/ -&lt;blockquote>
+<?xml-stylesheet href="/rss.xsl" type="text/xsl"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>北雁书的文章储存库</title><link>https://sauri.ca/</link><description>Recent content on 北雁书的文章储存库</description><generator>Hugo -- gohugo.io</generator><language>zh-cn</language><copyright>北雁书 2021-2024</copyright><lastBuildDate>Tue, 26 Mar 2024 05:00:00 -0400</lastBuildDate><atom:link href="https://sauri.ca/index.xml" rel="self" type="application/rss+xml"/><item><title>什么时候需要报警？关于少数群体危机干预的一些想法</title><link>https://sauri.ca/posts/whether-to-call-the-police/</link><pubDate>Wed, 19 Apr 2023 07:12:00 -0400</pubDate><guid>https://sauri.ca/posts/whether-to-call-the-police/</guid><description>北雁书的文章储存库 https://sauri.ca/posts/whether-to-call-the-police/ -&lt;blockquote>
+&lt;p>这是很有争议的问题，欢迎大家与我讨论。这个站点的评论区没有开通，但是大家可以参照左边的「关于作者」找到我的联系方式。&lt;/p>
+&lt;/blockquote>
+&lt;p>关于危机干预，我认为什么时候需要报警这件事情，是值得考量的。总体的原则是，非到万不得已的时候，不要求助于警察。对于少数群体个人，警察上门的代价是很高昂的：&lt;/p>
+&lt;ol>
+&lt;li>首先，报警很可能导致当事人意外爆柜。警方很可能会联系当事人不愿意联系的家人、学校老师等等。&lt;/li>
+&lt;li>其次，报警很可能损伤当事人对报警人乃至整个社群的信任，因此导致下一次危机干预的风险加剧。&lt;/li>
+&lt;li>警察也很可能没有处理心理问题的专业能力。例如，在加拿大，警方很可能给手无寸铁并不具有攻击性的自杀倾向者上束缚带来确保他们的安全，而这是很容易造成后期创伤的。在中国，警方很可能会对当事人进行很没有心理学根据的爹味说教，引发当事人的反感，当事人在息事宁人之后有可能会采取进一步的行动。尤其是在中国，不像在加拿大，警方没有义务带人去精神科强制送医，精神科与其他部门的联动也并不完善，这就让报警的效用更低了。&lt;/li>
+&lt;/ol>
+&lt;p>然而，警察上门也有优势：快速响应，能够直接控制住当事人的自杀或者严重伤害自身的行为。&lt;/p>
+&lt;p>由上面几条可见，「报警」与「不报警」之间的取舍，更多地是看报警的「短期收益」（快速响应的能力）是否能够超越不报警所带来的「长期收益」（比如信任、坚持、连续的心理疏导等等）。我做了一个 checklist，希望能够帮大家权衡是否要报警。&lt;/p>
+&lt;ol>
+&lt;li>是否有充分的证据表明当事人已经实施了自杀行为或者有将要自杀的风险？&lt;strong>注意：非自杀性自伤行为要与自杀行为严格区分开，不建议报警，但是情况严重可以叫救护车。&lt;/strong>&lt;/li>
+&lt;li>当地的警察是否负责，是否有足够的危机干预能力？（对于中国，要区分地域；对于国外，要看在哪个国家）&lt;/li>
+&lt;li>是否有当事人近邻、好友的联系方式，能够非常快速地响应，甚至不会慢于警察很多？&lt;/li>
+&lt;li>是否有做危机干预的社群伙伴在同一座城市，可以快速赶到？&lt;/li>
+&lt;li>以上 3, 4 两条里面所涉及到的干预者有没有比当地警察平均水平更高的精神健康常识？&lt;/li>
+&lt;li>当事人是否排斥报警，是否有清楚的自救意识并且不会埋怨报警的人？若否，报警人能否做到匿名行动？（这条优先级很低，仅仅做额外的考虑）&lt;/li>
+&lt;/ol>
+&lt;p>这几条写得都很简单，但操作起来很难。我只希望&lt;strong>无论你做了报警或者不报警的选择，你都要意识到，自己已经在行动，在救人，就已经很好了，不要为自己选择造成的结果懊悔&lt;/strong>。你在每一个时刻做了正确的决定，无论结果如何，坦然面对。&lt;/p>
+&lt;p>并且实际上从这几条中我们更能看到：&lt;strong>危机预防比危机干预更加重要&lt;/strong>。做危机干预的社群伙伴能否保持充分的合作和紧密的联系，做到在各个城市、地区都能够快速响应？有没有亲近的朋友能够联系上当事人的亲朋好友，知道当事人的住址？作为少数群体大家有没有足够的互助能力，能够形成紧密的网络，可以在不依赖警察这一「投鼠忌器」的暴力资源的同时，自己做到好的干预？在学校宿舍的话，有没有可以信任的室友、同校同学可以作为第二防护网，而不仅仅是网络上的好友在千里之外空操心？报警永远是必要的 last resort，但是除了把这一切交给一个不靠谱的公权力，我们仍然有很多可以做的。或许我讲得太过理想主义了，但是它其实也与安那其的思想以及西方反对警暴的 police abolition movement 有着很深刻的联系。我们需要借鉴和学习这些思想并且来建设我们的社群。&lt;/p>
+- https://sauri.ca/posts/whether-to-call-the-police/ - 北雁书 2021-2024</description></item><item><title>关于药物滥用问题的合集 2：如果你是潜在的使用者</title><link>https://sauri.ca/posts/drug-abuse-advice/</link><pubDate>Sat, 15 Apr 2023 07:00:00 -0400</pubDate><guid>https://sauri.ca/posts/drug-abuse-advice/</guid><description>北雁书的文章储存库 https://sauri.ca/posts/drug-abuse-advice/ -&lt;blockquote>
 &lt;p>希望大家都能摆脱「物质决定意识」。&lt;/p>
 &lt;p>我们一起努力去战胜药物滥用。&lt;/p>
 &lt;/blockquote>
@@ -33,36 +54,7 @@
 &lt;p>另外的话，要是这个文化里少一点“你如果怎么怎么样，这辈子就毁了”，就好了……&lt;/p>
 &lt;p>提供关于 od 安全问题的信息是好的。把 od 看作“不一定就完全放弃了自己”也是好的。&lt;/p>
 &lt;/blockquote>
-- https://sauri.ca/posts/drug-abuse-advice/ - 北雁书 2021-2024</description></item><item><title>女同性恋的性探索：从一篇以侄（直）女装姬为题的色情文学谈起</title><link>https://sauri.ca/posts/zhinyuzhuangji/</link><pubDate>Sat, 15 Apr 2023 07:00:00 -0400</pubDate><guid>https://sauri.ca/posts/zhinyuzhuangji/</guid><description>北雁书的文章储存库 https://sauri.ca/posts/zhinyuzhuangji/ -&lt;blockquote>
-&lt;p>内容警告：粗口、色情、非合意性行为。请确保您已成年并且遵守所在地区的法律。&lt;/p>
-&lt;p>之前看到不知道哪里转过来的侄（直）女装姬为题的色情文学，感觉很有意思。不同于很多中文互联网上对「直女装姬」的某种恶意和敌视，这篇文章展现了女同性恋身份的某种流动性，我觉得是很有探索和思考价值的。当然作为一篇色情文学，看着也非常非常带感。&lt;/p>
-&lt;p>接下来转载的内容我没有授权（并不以本网站的协议提供），原帖就是一张截图，是我自己 OCR 校对出来的，供研究使用。&lt;/p>
-&lt;/blockquote>
-&lt;p>侄女在网上看到了几张网红帅 T 照片，思考了一下做姬简直血赚，不周担心怀孕不用担心色狼，说不定还能捞一笔，美滋滋。&lt;/p>
-&lt;p>于是在宿舍里出了柜说「我一女的看了都心动」，「要和香香软软的女孩子谈恋爱」。&lt;/p>
-&lt;hr>
-&lt;p>结果好巧不巧，这整个宿舍除了她剩下三个人都是深柜姬崽。本来谁也不知道谁的，她一开口全炸出来了。&lt;/p>
-&lt;p>女同竟在我身边，侄女这时候倒是怕了，哆哆嗦嗦地说你们不会喜欢上我吧，你们可不要强奸我啊。&lt;/p>
-&lt;p>本来还没想呢，可谢谢侄女的启发，这时候可由不得她了。&lt;/p>
-&lt;p>侄女长得漂亮，头发又多脸又小，手腕纤细皮肤还挺白，正是直男喜欢的那一挂，乍一看还挺知性美女的。三个室友正愁寡呢，上哪也找不到姐姐，其中还有个母单花，寻思寻思当场把人锁床头轮番骑脸吃逼。侄女装姬时压裉没想到还有吃逼这一出，委屈地哭得睫毛膏都花了，黑色的眼泪顺着白嫩的脸很烦，有人踩了上去，结果（包括侄女自己在内）谁也没想到她反而兴奋起来了。&lt;/p>
-&lt;p>嚯，敢情又是个抖 m 啊。&lt;/p>
-&lt;hr>
-&lt;p>那天姬崽们用侄女的身体当教具，反复操练网上学的做 1 小技巧，计时比赛看谁最速把人日高潮。&lt;/p>
-&lt;p>本来还想逼侄女做 1 的，看了眼她的光疗延长碎钻链条蝴蝶美甲实在没人有决心坐上去。&lt;/p>
-&lt;hr>
-&lt;p>从此侄女就和三个姬崽室友过上了幸福的大学生活。两天用完一盒倍力乐不说，侄女大夏天还得穿高领衬衫，时不时还要前面后面塞着一大把东西上体育课。&lt;/p>
-&lt;p>反正她是侄女，早晚要和男人结婚，不用对她付出感情，日到算賺到；反正她觉得都是女孩子，被日也不算亏，爽到算赚到。&lt;/p>
-&lt;p>以往早上侄女老是第一个定闹祌起床化妆，烦得一批，现在妆也不化了，每天早上起床都是被至少两发晨炮淦醒的，爽得侄女腿抖手也抖。&lt;/p>
-&lt;p>晚上在宿舍指不定谁会爬上侄女的床，干得侄女晕晕乎乎乱叫老公老婆。时常半夜一两点床还在晃悠，习惯早睡的室友气得大骂下践的死女同性恋，侄女一边挨操一边顶回去说你不也是女同性恋，你们不全他妈的是下贱的死女同性恋吗，这宿舍里就我一个正常人，然后因为嘴贱被轮流扇耳光。&lt;/p>
-&lt;p>大课间被同班的室友拉进卫生间，室友一边抽着恶心巴拉的绿豆电子烟一边指奸她。侄女死要面子，憋住了不吭声，生怕被人知道，但外面排队等着拉屎的同学心里都有数。&lt;/p>
-&lt;p>把侄女干喷水之后，侄女高兴得跪在卫生间地上淌眼泪，室友看了心里一股火就上来了，别可着你一个人爽闳，有没有点儿 xx 道德，来吸批。&lt;/p>
-&lt;p>侄女一听这命令语气就又湿了，一边给人口一边偷偷在下面揉批。&lt;/p>
-&lt;hr>
-&lt;p>后来快毕业时，侄女口活好得不得了，能直接拉去做台 t 台 p，实现大学生下岗再就业。最后一炮时室友们突然想表扬她，就问，你当时为什么非要装姬。&lt;/p>
-&lt;p>侄女说，图个好玩。&lt;/p>
-&lt;p>室友问，你现在觉得好玩吗。&lt;/p>
-&lt;p>侄女说，太好玩了，好玩死了，姐姐们干死我得了。&lt;/p>
-- https://sauri.ca/posts/zhinyuzhuangji/ - 北雁书 2021-2024</description></item><item><title>MEMO｜每个人是他人精神健康第一责任人</title><link>https://sauri.ca/posts/each-individual-bears-the-foremost-responsibility-for-the-mental-well-being-of-others/</link><pubDate>Mon, 10 Apr 2023 05:16:00 -0400</pubDate><guid>https://sauri.ca/posts/each-individual-bears-the-foremost-responsibility-for-the-mental-well-being-of-others/</guid><description>北雁书的文章储存库 https://sauri.ca/posts/each-individual-bears-the-foremost-responsibility-for-the-mental-well-being-of-others/ -&lt;blockquote>
+- https://sauri.ca/posts/drug-abuse-advice/ - 北雁书 2021-2024</description></item><item><title>MEMO｜每个人是他人精神健康第一责任人</title><link>https://sauri.ca/posts/each-individual-bears-the-foremost-responsibility-for-the-mental-well-being-of-others/</link><pubDate>Mon, 10 Apr 2023 05:16:00 -0400</pubDate><guid>https://sauri.ca/posts/each-individual-bears-the-foremost-responsibility-for-the-mental-well-being-of-others/</guid><description>北雁书的文章储存库 https://sauri.ca/posts/each-individual-bears-the-foremost-responsibility-for-the-mental-well-being-of-others/ -&lt;blockquote>
 &lt;p>Each individual bears the foremost responsibility for the mental well-being of others.&lt;/p>
 &lt;/blockquote>
 &lt;p>这句话是 Rinna 提出的，非常鼓舞人。
