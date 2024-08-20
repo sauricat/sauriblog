@@ -237,8 +237,7 @@ var toggleDarkMode = function () {
     icon2.innerText = "light_mode";
 
     setGiscusTheme("dark");
-    // urgently and desparately need refactoring
-    var insertDiv = document.getElementById("cclicense");
+    const insertDiv = document.getElementById("cclicense");
     insertDiv.innerHTML =
       "<a rel=\"license\" href=\"http://creativecommons.org/licenses/by/4.0/\">\
       <img alt=\"知识共享许可协议\" style=\"border-width:0\" width=\"20\" height=\"20\" src=\"https://creativecommons.org/images/deed/cc_icon_white_x2.png\" />\
@@ -251,15 +250,12 @@ var toggleDarkMode = function () {
     icon.innerText = "dark_mode";
     icon2.innerText = "dark_mode";
     setGiscusTheme("light");
-
-    // urgently and desparately need refactoring
-    var insertDiv = document.getElementById("cclicense");
+    const insertDiv = document.getElementById("cclicense");
     insertDiv.innerHTML =
     "<a rel=\"license\" href=\"http://creativecommons.org/licenses/by/4.0/\">\
     <img alt=\"知识共享许可协议\" style=\"border-width:0\" width=\"20\" height=\"20\" src=\"https://creativecommons.org/images/deed/cc_icon_black_x2.png\" />\
     <img alt=\"署名\" style=\"border-width:0\" width=\"20\" height=\"20\" src=\"https://creativecommons.org/images/deed/attribution_icon_black_x2.png\" />\
     </a>";
-    // as above
   }
 };
 
@@ -295,6 +291,13 @@ try {
       toggleDarkMode();
     });
 } catch (_) {
+
+document
+  .getElementById("darkModeToggleButton2")
+  .addEventListener("click", function () {
+    toggleDarkMode();
+  });
+} catch(_) {
 
 }
 
