@@ -38,138 +38,138 @@
 &lt;table>
  &lt;thead>
  &lt;tr>
- &lt;th style="text-align: left">术语&lt;/th>
- &lt;th style="text-align: left">含义&lt;/th>
+ &lt;th>术语&lt;/th>
+ &lt;th>含义&lt;/th>
  &lt;/tr>
  &lt;/thead>
  &lt;tbody>
  &lt;tr>
- &lt;td style="text-align: left">无性别者（Agender）&lt;/td>
- &lt;td style="text-align: left">指不用性别来定义自己，或不认同于任何一个特定的性别身份的人。&lt;/td>
+ &lt;td>无性别者（Agender）&lt;/td>
+ &lt;td>指不用性别来定义自己，或不认同于任何一个特定的性别身份的人。&lt;/td>
  &lt;/tr>
  &lt;tr>
- &lt;td style="text-align: left">无性恋者（Asexual）&lt;/td>
- &lt;td style="text-align: left">指基本不会感受到性吸引力或对性行为基本没有欲望的人。&lt;/td>
+ &lt;td>无性恋者（Asexual）&lt;/td>
+ &lt;td>指基本不会感受到性吸引力或对性行为基本没有欲望的人。&lt;/td>
  &lt;/tr>
  &lt;tr>
- &lt;td style="text-align: left">指派性别为女性（Assigned female at birth, AFAB）&lt;/td>
- &lt;td style="text-align: left">通常指基于其生殖器的特征而在出生时被指派为女性的人。&lt;/td>
+ &lt;td>指派性别为女性（Assigned female at birth, AFAB）&lt;/td>
+ &lt;td>通常指基于其生殖器的特征而在出生时被指派为女性的人。&lt;/td>
  &lt;/tr>
  &lt;tr>
- &lt;td style="text-align: left">指派性别为男性（Assigned male at birth, AMAB）&lt;/td>
- &lt;td style="text-align: left">通常指基于其生殖器的特征而在出生时被指派为男性的人。&lt;/td>
+ &lt;td>指派性别为男性（Assigned male at birth, AMAB）&lt;/td>
+ &lt;td>通常指基于其生殖器的特征而在出生时被指派为男性的人。&lt;/td>
  &lt;/tr>
  &lt;tr>
- &lt;td style="text-align: left">性别二元结构（Binary gender construct）&lt;/td>
- &lt;td style="text-align: left">指一种只承认两种互斥的性别认同（男性和女性）的社会结构。历史上大多数文化对性别的理解都是基于这种二元结构的。&lt;/td>
+ &lt;td>性别二元结构（Binary gender construct）&lt;/td>
+ &lt;td>指一种只承认两种互斥的性别认同（男性和女性）的社会结构。历史上大多数文化对性别的理解都是基于这种二元结构的。&lt;/td>
  &lt;/tr>
  &lt;tr>
- &lt;td style="text-align: left">双性恋者（Bisexual）&lt;/td>
- &lt;td style="text-align: left">狭义上，指既被男性吸引也被女性吸引的人。广义上指会被两种及以上性别吸引的人。&lt;/td>
+ &lt;td>双性恋者（Bisexual）&lt;/td>
+ &lt;td>狭义上，指既被男性吸引也被女性吸引的人。广义上指会被两种及以上性别吸引的人。&lt;/td>
  &lt;/tr>
  &lt;tr>
- &lt;td style="text-align: left">非单一取向（Non-monosexual）&lt;/td>
- &lt;td style="text-align: left">由 「双性恋」衍生出的一个术语；用于打破 「双性恋」一词的性别二元结构，指所有被不止一种性别认同（不限于男女二元）的人吸引的人。&lt;/td>
+ &lt;td>非单一取向（Non-monosexual）&lt;/td>
+ &lt;td>由 「双性恋」衍生出的一个术语；用于打破 「双性恋」一词的性别二元结构，指所有被不止一种性别认同（不限于男女二元）的人吸引的人。&lt;/td>
  &lt;/tr>
  &lt;tr>
- &lt;td style="text-align: left">多元取向者（Bi+）&lt;/td>
- &lt;td style="text-align: left">由 「双性恋」衍生出的一个术语；用于打破 「双性恋」一词的性别二元结构，指所有被不止一种性别认同（不限于男女二元）的人所吸引的人在内。 在国内，亦可翻译作双/泛性恋。&lt;/td>
+ &lt;td>多元取向者（Bi+）&lt;/td>
+ &lt;td>由 「双性恋」衍生出的一个术语；用于打破 「双性恋」一词的性别二元结构，指所有被不止一种性别认同（不限于男女二元）的人所吸引的人在内。 在国内，亦可翻译作双/泛性恋。&lt;/td>
  &lt;/tr>
  &lt;tr>
- &lt;td style="text-align: left">泛性恋者（Pansexual）&lt;/td>
- &lt;td style="text-align: left">指所有性别认同的人都能对其产生吸引的人。&lt;/td>
+ &lt;td>泛性恋者（Pansexual）&lt;/td>
+ &lt;td>指所有性别认同的人都能对其产生吸引的人。&lt;/td>
  &lt;/tr>
  &lt;tr>
- &lt;td style="text-align: left">顺性别者（Cisgender）&lt;/td>
- &lt;td style="text-align: left">指性别认同与指派性别相同的人。例如，一个人出生时被指派为女性，其性别认同也为女性。&lt;/td>
+ &lt;td>顺性别者（Cisgender）&lt;/td>
+ &lt;td>指性别认同与指派性别相同的人。例如，一个人出生时被指派为女性，其性别认同也为女性。&lt;/td>
  &lt;/tr>
  &lt;tr>
- &lt;td style="text-align: left">男同性恋者（Gay）&lt;/td>
- &lt;td style="text-align: left">指性别认同为男性且主要被男性所吸引的人。（英文语境下，Gay 一词在历史上被用作指代一切非异性恋者的伞状术语。）&lt;/td>
+ &lt;td>男同性恋者（Gay）&lt;/td>
+ &lt;td>指性别认同为男性且主要被男性所吸引的人。（英文语境下，Gay 一词在历史上被用作指代一切非异性恋者的伞状术语。）&lt;/td>
  &lt;/tr>
  &lt;tr>
- &lt;td style="text-align: left">女同性恋者（Lesbian）&lt;/td>
- &lt;td style="text-align: left">指性别认同为女性且主要被女性所吸引的人。&lt;/td>
+ &lt;td>女同性恋者（Lesbian）&lt;/td>
+ &lt;td>指性别认同为女性且主要被女性所吸引的人。&lt;/td>
  &lt;/tr>
  &lt;tr>
- &lt;td style="text-align: left">社会性别（Gender）&lt;/td>
- &lt;td style="text-align: left">个体基于其指派性别被分配的角色、特质和责任，是一种社会建构而不是生理上的固有属性。这些被分配的角色特点植根于特定文化，在不同文化群体间可能存在很多差异。&lt;/td>
+ &lt;td>社会性别（Gender）&lt;/td>
+ &lt;td>个体基于其指派性别被分配的角色、特质和责任，是一种社会建构而不是生理上的固有属性。这些被分配的角色特点植根于特定文化，在不同文化群体间可能存在很多差异。&lt;/td>
  &lt;/tr>
  &lt;tr>
- &lt;td style="text-align: left">性别确认（Gender affirmation）&lt;/td>
- &lt;td style="text-align: left">任何使自己的性别表达、社会认知（social perception）和容貌外观与自己的性别认同更为一致的过程。&lt;/td>
+ &lt;td>性别确认（Gender affirmation）&lt;/td>
+ &lt;td>任何使自己的性别表达、社会认知（social perception）和容貌外观与自己的性别认同更为一致的过程。&lt;/td>
  &lt;/tr>
  &lt;tr>
- &lt;td style="text-align: left">性别过渡（Transition）&lt;/td>
- &lt;td style="text-align: left">亦为任何使自己的性别表达、社会认知（social perception）和容貌外观与自己的性别认同更为一致的过程。&lt;/td>
+ &lt;td>性别过渡（Transition）&lt;/td>
+ &lt;td>亦为任何使自己的性别表达、社会认知（social perception）和容貌外观与自己的性别认同更为一致的过程。&lt;/td>
  &lt;/tr>
  &lt;tr>
- &lt;td style="text-align: left">性别表达（Gender expression）&lt;/td>
- &lt;td style="text-align: left">指一个人外在地表达自己性别的方式，包括举止、着装风格、行为和可修饰的容貌外观等。&lt;/td>
+ &lt;td>性别表达（Gender expression）&lt;/td>
+ &lt;td>指一个人外在地表达自己性别的方式，包括举止、着装风格、行为和可修饰的容貌外观等。&lt;/td>
  &lt;/tr>
  &lt;tr>
- &lt;td style="text-align: left">性别认同（Gender identity）&lt;/td>
- &lt;td style="text-align: left">指一个人内在地对自己的性别的理解。一个人的性别认同不一定与其生理性别或性别表达相一致。&lt;/td>
+ &lt;td>性别认同（Gender identity）&lt;/td>
+ &lt;td>指一个人内在地对自己的性别的理解。一个人的性别认同不一定与其生理性别或性别表达相一致。&lt;/td>
  &lt;/tr>
  &lt;tr>
- &lt;td style="text-align: left">非常规性别（Gender nonconforming）&lt;/td>
- &lt;td style="text-align: left">一般指性别表达不符合社会规范的人&lt;/td>
+ &lt;td>非常规性别（Gender nonconforming）&lt;/td>
+ &lt;td>一般指性别表达不符合社会规范的人&lt;/td>
  &lt;/tr>
  &lt;tr>
- &lt;td style="text-align: left">性别酷儿（Genderqueer）&lt;/td>
- &lt;td style="text-align: left">与非二元性别相似，是一个伞状术语，指既不完全认同自己为男性，也不完全认同自己为女性的人。&lt;/td>
+ &lt;td>性别酷儿（Genderqueer）&lt;/td>
+ &lt;td>与非二元性别相似，是一个伞状术语，指既不完全认同自己为男性，也不完全认同自己为女性的人。&lt;/td>
  &lt;/tr>
  &lt;tr>
- &lt;td style="text-align: left">间性人（Intersex）&lt;/td>
- &lt;td style="text-align: left">指染色体既不是 XX 也不是 XY，或性器官模糊，或性器官与染色体的构成不一致的人。&lt;/td>
+ &lt;td>间性人（Intersex）&lt;/td>
+ &lt;td>指染色体既不是 XX 也不是 XY，或性器官模糊，或性器官与染色体的构成不一致的人。&lt;/td>
  &lt;/tr>
  &lt;tr>
- &lt;td style="text-align: left">非二元性别（Non-binary）&lt;/td>
- &lt;td style="text-align: left">指一个人不完全认同自己是男性，也不完全认同自己为女性。是一个伞状术语，包括一系列不同的性别认同。&lt;/td>
+ &lt;td>非二元性别（Non-binary）&lt;/td>
+ &lt;td>指一个人不完全认同自己是男性，也不完全认同自己为女性。是一个伞状术语，包括一系列不同的性别认同。&lt;/td>
  &lt;/tr>
  &lt;tr>
- &lt;td style="text-align: left">酷儿（Queer）&lt;/td>
- &lt;td style="text-align: left">伞状术语，指所有非异性恋的人。该术语曾被男同性恋、女同性恋、双性恋和酷儿（LGBQ）及跨性别和非二元社群以外的人用作贬义词；如今仍有许多性少数社群内的成员认为该词带有贬义色彩。对于性少数社群内的其他成员， 「酷儿」一词具有赋能的意味，能够引发对二元性别建构以外的性倾向的讨论。&lt;/td>
+ &lt;td>酷儿（Queer）&lt;/td>
+ &lt;td>伞状术语，指所有非异性恋的人。该术语曾被男同性恋、女同性恋、双性恋和酷儿（LGBQ）及跨性别和非二元社群以外的人用作贬义词；如今仍有许多性少数社群内的成员认为该词带有贬义色彩。对于性少数社群内的其他成员， 「酷儿」一词具有赋能的意味，能够引发对二元性别建构以外的性倾向的讨论。&lt;/td>
  &lt;/tr>
  &lt;tr>
- &lt;td style="text-align: left">生理性别（Sex）/生理性别特征（sexual characteristics）&lt;/td>
- &lt;td style="text-align: left">社会所建构的一种基于染色体构成和生殖器外观将人们进行分类的方式。人的原生性别即出生时被指派的性别。尽管生理性别常被认为是二元的，但实际上生理性别有非常多的可能性。但目前来说，在一些医疗文本中，生理性别（Sex）亦指代一种典型的（typical）解剖学特征名单。&lt;/td>
+ &lt;td>生理性别（Sex）/生理性别特征（sexual characteristics）&lt;/td>
+ &lt;td>社会所建构的一种基于染色体构成和生殖器外观将人们进行分类的方式。人的原生性别即出生时被指派的性别。尽管生理性别常被认为是二元的，但实际上生理性别有非常多的可能性。但目前来说，在一些医疗文本中，生理性别（Sex）亦指代一种典型的（typical）解剖学特征名单。&lt;/td>
  &lt;/tr>
  &lt;tr>
- &lt;td style="text-align: left">性倾向（Sexual Orientation）&lt;/td>
- &lt;td style="text-align: left">用于描述一个人的性吸引（sexual attraction）、性身份和性行为。&lt;/td>
+ &lt;td>性倾向（Sexual Orientation）&lt;/td>
+ &lt;td>用于描述一个人的性吸引（sexual attraction）、性身份和性行为。&lt;/td>
  &lt;/tr>
  &lt;tr>
- &lt;td style="text-align: left">跨性别者（Transgender）&lt;/td>
- &lt;td style="text-align: left">指性别认同与指派性别不同的人。跨性别者的性别认同可能为二元的，也可能为非二元的。 目前也有观点认为，性别认同与指派性别与性别表达只要不是三者相同都属于广义跨性别者。跨性别者可能会采取医疗和手术的手段，使身体特征与其性别认同相一致，也可能不采取。&lt;/td>
+ &lt;td>跨性别者（Transgender）&lt;/td>
+ &lt;td>指性别认同与指派性别不同的人。跨性别者的性别认同可能为二元的，也可能为非二元的。 目前也有观点认为，性别认同与指派性别与性别表达只要不是三者相同都属于广义跨性别者。跨性别者可能会采取医疗和手术的手段，使身体特征与其性别认同相一致，也可能不采取。&lt;/td>
  &lt;/tr>
  &lt;tr>
- &lt;td style="text-align: left">跨性别男性（Transgender man）&lt;/td>
- &lt;td style="text-align: left">指出生时被指派为女性且性别认同为男性的人。&lt;/td>
+ &lt;td>跨性别男性（Transgender man）&lt;/td>
+ &lt;td>指出生时被指派为女性且性别认同为男性的人。&lt;/td>
  &lt;/tr>
  &lt;tr>
- &lt;td style="text-align: left">男性（Man）&lt;/td>
- &lt;td style="text-align: left">指性别认同为男性的人，不论其出生时的指派性别为何。&lt;/td>
+ &lt;td>男性（Man）&lt;/td>
+ &lt;td>指性别认同为男性的人，不论其出生时的指派性别为何。&lt;/td>
  &lt;/tr>
  &lt;tr>
- &lt;td style="text-align: left">女性（Woman）&lt;/td>
- &lt;td style="text-align: left">指性别认同为女性的人，不论其出生时的指派性别。&lt;/td>
+ &lt;td>女性（Woman）&lt;/td>
+ &lt;td>指性别认同为女性的人，不论其出生时的指派性别。&lt;/td>
  &lt;/tr>
  &lt;tr>
- &lt;td style="text-align: left">跨性别女性（Transgender women）&lt;/td>
- &lt;td style="text-align: left">指出生时被指派为男性且性别认同为女性的人。&lt;/td>
+ &lt;td>跨性别女性（Transgender women）&lt;/td>
+ &lt;td>指出生时被指派为男性且性别认同为女性的人。&lt;/td>
  &lt;/tr>
  &lt;tr>
- &lt;td style="text-align: left">男性化跨儿/跨男性化（Transmasculine）&lt;/td>
- &lt;td style="text-align: left">指出生时被指派为女性，且性别认同为男性或偏男性化的人。&lt;/td>
+ &lt;td>男性化跨儿/跨男性化（Transmasculine）&lt;/td>
+ &lt;td>指出生时被指派为女性，且性别认同为男性或偏男性化的人。&lt;/td>
  &lt;/tr>
  &lt;tr>
- &lt;td style="text-align: left">女性化跨儿/跨女性化（Transfeminine）&lt;/td>
- &lt;td style="text-align: left">指出生时被指派为男性，且性别认同为女性或偏女性化的人。&lt;/td>
+ &lt;td>女性化跨儿/跨女性化（Transfeminine）&lt;/td>
+ &lt;td>指出生时被指派为男性，且性别认同为女性或偏女性化的人。&lt;/td>
  &lt;/tr>
  &lt;tr>
- &lt;td style="text-align: left">Ta/Ta 们（They/Them/Their）&lt;/td>
- &lt;td style="text-align: left">对具有非二元或非常规性别认同人群的性别中立称呼。&lt;/td>
+ &lt;td>Ta/Ta 们（They/Them/Their）&lt;/td>
+ &lt;td>对具有非二元或非常规性别认同人群的性别中立称呼。&lt;/td>
  &lt;/tr>
  &lt;/tbody>
 &lt;/table>
