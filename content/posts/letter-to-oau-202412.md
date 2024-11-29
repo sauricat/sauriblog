@@ -6,6 +6,7 @@ tags: [社群工作]
 comment: false
 ---
 
+![](../orimai.jpg)
 亲爱的各位社群伙伴们，
 
 大家好。我是 One Among Us 现任执行理事北雁书。理事会选举在即，我有一些话想和大家说。
