@@ -45,6 +45,10 @@ Usagi by the shore.
 
 雪糕，蛋挞，塔可，都是好吃的！
 
+## [棉花糖/有川夕见](https://misncandy.moe/links)
+
+「我们终将在没有黑暗的地方相遇。」
+
 # 社群
 
 ## One Among Us Transgender Support
